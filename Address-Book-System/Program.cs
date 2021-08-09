@@ -40,6 +40,8 @@ namespace Address_Book_System
 
             AddressBook.addAddressBook();
             AddressBook.PersonSearch();
+            AddressBook.AddressBookSorting();
+
 
 
 
