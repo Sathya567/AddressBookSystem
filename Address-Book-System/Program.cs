@@ -38,10 +38,13 @@ namespace Address_Book_System
             //AddressBook.ContactsDisplay();
             //AddressBook.ContactsDisplay();
 
-            AddressBook.addAddressBook();
-            AddressBook.PersonSearch();
-            AddressBook.AddressBookSorting();
+            //AddressBook.addAddressBook();
+            //AddressBook.PersonSearch();
+            //AddressBook.AddressBookSorting();  uc 9,10,11
 
+
+            AddressBook.addAddressBook();
+            AddressBook.AddressBookSorting();
 
 
 
