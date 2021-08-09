@@ -14,7 +14,18 @@ namespace Address_Book_System
             //AddressBook.EditContact();       uc3
             //AddressBook.ContactsDisplay();
 
-            AddressBook.AddContact();
+            //AddressBook.AddContact();
+            //Console.WriteLine("\n");
+            //AddressBook.ContactsDisplay();
+            //Console.WriteLine("\n");
+            //AddressBook.EditContact();
+            //Console.WriteLine("\n");
+            //AddressBook.ContactsDisplay();    UC4,5
+            //Console.WriteLine("\n");
+            //AddressBook.DeleteContact();
+            //AddressBook.ContactsDisplay();
+
+            AddressBook.addAddressBook();
             Console.WriteLine("\n");
             AddressBook.ContactsDisplay();
             Console.WriteLine("\n");
@@ -22,8 +33,13 @@ namespace Address_Book_System
             Console.WriteLine("\n");
             AddressBook.ContactsDisplay();
             Console.WriteLine("\n");
-            AddressBook.DeleteContact();
             AddressBook.ContactsDisplay();
+            AddressBook.ContactsDisplay();
+            AddressBook.ContactsDisplay();
+            AddressBook.ContactsDisplay();
+
+
+
         }
     }
 }
