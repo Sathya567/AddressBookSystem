@@ -25,18 +25,21 @@ namespace Address_Book_System
             //AddressBook.DeleteContact();
             //AddressBook.ContactsDisplay();
 
+            //AddressBook.addAddressBook();
+            //Console.WriteLine("\n");
+            //AddressBook.ContactsDisplay();
+            //Console.WriteLine("\n");
+            //AddressBook.EditContact();
+            //Console.WriteLine("\n");           Uc6,7,8
+            //AddressBook.ContactsDisplay();
+            //Console.WriteLine("\n");
+            //AddressBook.ContactsDisplay();
+            //AddressBook.ContactsDisplay();
+            //AddressBook.ContactsDisplay();
+            //AddressBook.ContactsDisplay();
+
             AddressBook.addAddressBook();
-            Console.WriteLine("\n");
-            AddressBook.ContactsDisplay();
-            Console.WriteLine("\n");
-            AddressBook.EditContact();
-            Console.WriteLine("\n");
-            AddressBook.ContactsDisplay();
-            Console.WriteLine("\n");
-            AddressBook.ContactsDisplay();
-            AddressBook.ContactsDisplay();
-            AddressBook.ContactsDisplay();
-            AddressBook.ContactsDisplay();
+            AddressBook.PersonSearch();
 
 
 
